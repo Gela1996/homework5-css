@@ -17,7 +17,9 @@
     margin: 10px;
     color:black;
 }
-
+.spacer {
+    margin-top: 20px;
+}
 .div3 {
     width: 600px;
     height: 50px;
